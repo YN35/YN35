@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @YN35
-- 🌱 18 years old
-- 👀 I’m interested in inverse rendering / deep reinforcement learning / artificial general intelligence / cognitive science / brain machine interface
-- 📫 How to reach me yono003500@gmail.com
+### 👋 Hi, I’m @YN35
+- INTEREST
+  - deep learning
+    - deep reinforcement learning
+    - inverse rendering
+  - brain
+    - artificial general intelligence
+    - cognitive science
+    - brain machine interface
+
+
+📫 yono003500@gmail.com
+
+
+
+
 
 <!---
 YN35/YN35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
