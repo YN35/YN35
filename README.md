@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YN35
 - 🌱 18 years old
-- 👀 I’m interested in inverse rendering / deep reinforcement learning / artificial general intelligence / cognitive science
+- 👀 I’m interested in inverse rendering / deep reinforcement learning / artificial general intelligence / cognitive science / brain machine interface
 - 📫 How to reach me yono003500@gmail.com
 
 <!---
