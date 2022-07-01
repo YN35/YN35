@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YN35
-- 👀 I’m interested in DL,DRL
-- 🌱 I’m currently learning julia
-- 💞️ I’m looking to collaborate on ****
+- 🌱 18 years old
+- 👀 I’m interested in inverse rendering / deep reinforcement learning / artificial general intelligence / cognitive science
 - 📫 How to reach me yono003500@gmail.com
 
 <!---
